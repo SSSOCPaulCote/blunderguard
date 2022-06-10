@@ -1,3 +1,3 @@
-module github.com/SSSOC-CAN/blunderguard
+module github.com/SSSOCPaulCote/blunderguard
 
 go 1.18
