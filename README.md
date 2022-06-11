@@ -26,4 +26,4 @@ func main() {
     }
 }
 ```
-Now your errors are immutable, fungible and constants.
+Now your errors are immutable, fungible and constants. Enjoy!
